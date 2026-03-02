@@ -1,0 +1,9 @@
+{
+  "in_channels": 3,
+  "out_channels": 1,
+  "init_filters": 64,
+  "depth": 3,
+  "input_size": null,
+  "best_threshold": 0.6,
+  "min_area": 20
+}

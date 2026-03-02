@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Large model weights (use Git LFS or exclude)
+*.pth
+*.pt
+*.ckpt
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large archive
+*.zip
