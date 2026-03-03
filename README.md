@@ -1,6 +1,6 @@
 # Medical Image Processing — Liver Steatosis Challenge
 
-> *Medical Image Processing — Master's Degree in Biomedical Engineering, Politecnico di Torino, A.A. 2021/22*
+> *Medical Image Processing — Master's Degree in Biomedical Engineering, Politecnico di Torino, A.A. 2025/26*
 
 ## Project
 
